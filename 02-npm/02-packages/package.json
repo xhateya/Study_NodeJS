@@ -1,0 +1,14 @@
+{
+  "name": "02-packages",
+  "version": "1.0.0",
+  "description": "first project lagi",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index.js"
+  },
+  "author": "me",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}

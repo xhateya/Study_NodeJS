@@ -1,0 +1,11 @@
+{
+  "name": "01-intro",
+  "version": "1.0.0",
+  "description": "First Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "Teya Osamu",
+  "license": "ISC"
+}
