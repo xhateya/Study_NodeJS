@@ -19,9 +19,6 @@ const app = express();
 
 //HEREEE middleware body-parser json
 app.use(bodyParser.json(),(req,res,next) => {
-  console.log("METHOD: ", req.method);
-  console.log("URL Path: ", req.path);
-  console.log("Headers: ", req.headers);
   console.log("query: ", req.query);
 
 
